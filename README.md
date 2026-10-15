@@ -7,7 +7,7 @@ This repository is the Homebrew tap for the Hull CLI.
 After the first public Hull CLI release is published:
 
 ```bash
-brew install INFINYSYNC-LABS/tap/hull
+brew install withhull/tap/hull
 ```
 
 Then verify the installation:
